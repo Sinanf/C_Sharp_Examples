@@ -137,7 +137,7 @@ namespace C_Sharp_Variables
             double x = (-b / a);
             Console.WriteLine("Equation of ({0}x + {1} = 0) x equal to: {2}", a,b,x );
         }
-    }
-
-    
+    }    
 }
+
+
