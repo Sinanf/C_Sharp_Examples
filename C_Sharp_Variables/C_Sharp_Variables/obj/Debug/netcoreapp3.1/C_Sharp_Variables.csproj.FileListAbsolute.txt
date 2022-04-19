@@ -1,0 +1,14 @@
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\bin\Debug\netcoreapp3.1\C_Sharp_Variables.exe
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\bin\Debug\netcoreapp3.1\C_Sharp_Variables.deps.json
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\bin\Debug\netcoreapp3.1\C_Sharp_Variables.runtimeconfig.json
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\bin\Debug\netcoreapp3.1\C_Sharp_Variables.runtimeconfig.dev.json
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\bin\Debug\netcoreapp3.1\C_Sharp_Variables.dll
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\bin\Debug\netcoreapp3.1\C_Sharp_Variables.pdb
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\obj\Debug\netcoreapp3.1\C_Sharp_Variables.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\obj\Debug\netcoreapp3.1\C_Sharp_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\obj\Debug\netcoreapp3.1\C_Sharp_Variables.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\obj\Debug\netcoreapp3.1\C_Sharp_Variables.AssemblyInfo.cs
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\obj\Debug\netcoreapp3.1\C_Sharp_Variables.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\obj\Debug\netcoreapp3.1\C_Sharp_Variables.dll
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\obj\Debug\netcoreapp3.1\C_Sharp_Variables.pdb
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Variables\C_Sharp_Variables\obj\Debug\netcoreapp3.1\C_Sharp_Variables.genruntimeconfig.cache
