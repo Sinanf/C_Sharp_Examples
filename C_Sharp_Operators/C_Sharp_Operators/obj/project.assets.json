@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI-NB\\Desktop\\C# Examples\\C_Sharp_Examples\\C_Sharp_Variables\\C_Sharp_Variables\\C_Sharp_Variables.csproj",
-      "projectName": "C_Sharp_Variables",
-      "projectPath": "C:\\Users\\MSI-NB\\Desktop\\C# Examples\\C_Sharp_Examples\\C_Sharp_Variables\\C_Sharp_Variables\\C_Sharp_Variables.csproj",
+      "projectUniqueName": "C:\\Users\\MSI-NB\\Desktop\\C# Examples\\C_Sharp_Examples\\C_Sharp_Operators\\C_Sharp_Operators\\C_Sharp_Operators.csproj",
+      "projectName": "C_Sharp_Operators",
+      "projectPath": "C:\\Users\\MSI-NB\\Desktop\\C# Examples\\C_Sharp_Examples\\C_Sharp_Operators\\C_Sharp_Operators\\C_Sharp_Operators.csproj",
       "packagesPath": "C:\\Users\\MSI-NB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI-NB\\Desktop\\C# Examples\\C_Sharp_Examples\\C_Sharp_Variables\\C_Sharp_Variables\\obj\\",
+      "outputPath": "C:\\Users\\MSI-NB\\Desktop\\C# Examples\\C_Sharp_Examples\\C_Sharp_Operators\\C_Sharp_Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI-NB\\AppData\\Roaming\\NuGet\\NuGet.Config",

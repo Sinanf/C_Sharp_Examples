@@ -18,7 +18,7 @@ namespace C_Sharp_Variables
              * OneUnknownEquation();
              */
 
-
+            OneUnknownEquation();
         }
 
         static void NameInput()
