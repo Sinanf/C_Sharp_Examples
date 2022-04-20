@@ -2,7 +2,7 @@
 
 namespace C_Sharp_Exercises
 {
-    class Variables
+    internal class Variables
     {
         static void Main(string[] args)
         {
