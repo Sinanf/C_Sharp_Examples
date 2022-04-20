@@ -1,0 +1,15 @@
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\bin\Debug\net6.0\C_Sharp_Loops.exe
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\bin\Debug\net6.0\C_Sharp_Loops.deps.json
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\bin\Debug\net6.0\C_Sharp_Loops.runtimeconfig.json
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\bin\Debug\net6.0\C_Sharp_Loops.dll
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\bin\Debug\net6.0\C_Sharp_Loops.pdb
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\C_Sharp_Loops.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\C_Sharp_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\C_Sharp_Loops.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\C_Sharp_Loops.AssemblyInfo.cs
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\C_Sharp_Loops.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\C_Sharp_Loops.dll
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\refint\C_Sharp_Loops.dll
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\C_Sharp_Loops.pdb
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\C_Sharp_Loops.genruntimeconfig.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Loops\C_Sharp_Loops\obj\Debug\net6.0\ref\C_Sharp_Loops.dll
