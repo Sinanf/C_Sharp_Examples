@@ -1,0 +1,14 @@
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\obj\Debug\netcoreapp3.1\C_Sharp_Exercises.csproj.AssemblyReference.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\obj\Debug\netcoreapp3.1\C_Sharp_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\obj\Debug\netcoreapp3.1\C_Sharp_Exercises.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\obj\Debug\netcoreapp3.1\C_Sharp_Exercises.AssemblyInfo.cs
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\obj\Debug\netcoreapp3.1\C_Sharp_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\bin\Debug\netcoreapp3.1\C_Sharp_Exercises.exe
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\bin\Debug\netcoreapp3.1\C_Sharp_Exercises.deps.json
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\bin\Debug\netcoreapp3.1\C_Sharp_Exercises.runtimeconfig.json
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\bin\Debug\netcoreapp3.1\C_Sharp_Exercises.runtimeconfig.dev.json
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\bin\Debug\netcoreapp3.1\C_Sharp_Exercises.dll
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\bin\Debug\netcoreapp3.1\C_Sharp_Exercises.pdb
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\obj\Debug\netcoreapp3.1\C_Sharp_Exercises.dll
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\obj\Debug\netcoreapp3.1\C_Sharp_Exercises.pdb
+C:\Users\MSI-NB\Desktop\C# Examples\C_Sharp_Examples\C_Sharp_Exercises\obj\Debug\netcoreapp3.1\C_Sharp_Exercises.genruntimeconfig.cache
